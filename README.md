@@ -18,7 +18,7 @@ Daily work routine
 🔭 Power Electronics Service
 🔭 HMI Panel Service
 ![a main page screenshot]
-![a main page screenshot](https://github.com/remceTkedaR/images/blob/master/images/sim2.jpg)
+![a main page screenshot](https://github.com/remceTkedaR/remceTkedaR/blob/main/sim2.jpg)
 ![Designing industrial automation systems]
 ### I am willing to cooperate or accept an order
 

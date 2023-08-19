@@ -17,9 +17,9 @@ Daily work routine
 🔭 BGA, CSP, SMT PCB Assembly
 🔭 Power Electronics Service
 🔭 HMI Panel Service
-
-![Designing industrial automation systems](https://github.com/remceTkedaR/images/blob/master/images/sim2.jpg)
-
+![a main page screenshot]
+![a main page screenshot](https://github.com/remceTkedaR/images/blob/master/images/sim2.jpg)
+![Designing industrial automation systems]
 ### I am willing to cooperate or accept an order
 
 ## INSPIRATIONS
